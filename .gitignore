@@ -2,5 +2,5 @@
 .virtual_documents/
 .idea
 path_to_new_images
-path_to_output_dir
+#path_to_output_dir
 wallpaper-pictures
